@@ -1,0 +1,6 @@
+Row: A
+Seat: 2
+Price: 200
+Name: ss
+Surname: ss
+Email: ss@gmail.com
